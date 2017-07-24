@@ -1,0 +1,6 @@
+c:\users\dv\documents\visual studio 2017\Projects\Univer\Univer\bin\Debug\Univer.exe.config
+c:\users\dv\documents\visual studio 2017\Projects\Univer\Univer\bin\Debug\Univer.exe
+c:\users\dv\documents\visual studio 2017\Projects\Univer\Univer\bin\Debug\Univer.pdb
+c:\users\dv\documents\visual studio 2017\Projects\Univer\Univer\obj\Debug\Univer.csprojResolveAssemblyReference.cache
+c:\users\dv\documents\visual studio 2017\Projects\Univer\Univer\obj\Debug\Univer.exe
+c:\users\dv\documents\visual studio 2017\Projects\Univer\Univer\obj\Debug\Univer.pdb
